@@ -1,0 +1,217 @@
+.header{
+    height: 10vh;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    height: 8vh;
+    width: 100vw;
+    /* position:fixed; */
+}
+p>img{
+    height: 6vh;
+    margin-right: 10px;
+    margin-left: 4px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.header{
+    box-shadow: rgba(225, 22, 22, 0.35) 0px 5px 15px;
+}
+.sections{
+    margin-left: 32px;
+    padding-top: 0px;
+    justify-content: space-evenly;
+}
+.sec1{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+span{
+    margin-left: 15px;
+    margin-bottom: 100px;
+    justify-content: space-evenly;
+    font-weight: 600;
+    font-size: small;
+}
+#logo{
+    margin-left: 60px;
+}
+.profiles{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    justify-content: space-evenly;
+    font-weight: 600;
+    font-size: small;
+}
+.searchbar{
+    width: 500px;
+    height: 30px;
+    margin-left: 100px;
+    background-color: rgb(236, 234, 234);
+    border: none;
+}
+.image1{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 100px;
+    cursor: pointer;
+}
+.image2{
+    margin-left: 3px;
+    cursor: pointer;
+}
+.heading{
+     text-align: center;
+     font-family: sans-serif;
+}
+.outer_box{
+    background-color: white;
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+}
+.inner_box{
+    background-color: #0d73e0;
+    height: 40vh;
+    width: 12vw;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1%;
+    margin-right: 3%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.img1{
+    height: 25vh;
+    width: 10vw;
+    justify-content: space-evenly;
+    padding: 9%;
+}
+.text1>p{
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    font-size: large;
+    margin-top:  -6%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    margin-top: 1.5vh;
+  
+ 
+}
+.text2{
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    margin-top: -7%;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+.text3{
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    margin-top: -7%;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.image3{
+    margin-top: -40px;
+    margin-left: 52px;
+    cursor: pointer;
+}
+.image4{
+    margin-top: 100px;
+}
+.footer1{
+    color: black;
+    margin-left: 250px;
+    margin-left: 250px;
+    font-weight: bold;
+}
+.footer{
+    color: grey;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.color{
+    color: blue;
+}
+.text{
+    margin-left: 206px;
+    margin-right: 150px;
+}
+.flip1{
+    margin-left: 132px;
+}
+.footer3{
+    color: grey;
+}
+.flip2{
+    margin-left: 512px;
+}
+.flip3{
+    margin-left: 435px;
+}
+.space{
+    margin-right: 100px;
+}
+.crousel{
+    margin-top: 6px;
+    margin-left: 5px;
+    margin-right: 20px;
+}
+.carousel-inner{
+    background-size: cover;
+    height: 75vh;
+    width: 57vw;
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 120px;
+    box-shadow: magenta;
+    padding: 12px 16px;
+    z-index: 1;
+    text-decoration: none;
+    
+}
+
+.Worddropdown{
+    position: relative;
+    display: inline;
+    color: #000;
+
+}
+.Worddropdown:hover .dropdown-content{
+    display: inline-block;
+    width:80vw ;
+    height:65vh ;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+}
+.om{
+    color: red;
+}
+.op{
+    color: magenta;
+}
+.drop>a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
